@@ -7,6 +7,6 @@ function whisper (greeting) {
 function logShout () {
   console.log("HELLO");
 }
-function logWhispher () {
-  console.log().toLowerCase;
+logWhispher = "hello";
+logWhispher();
 }
