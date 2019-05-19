@@ -9,4 +9,3 @@ function logShout () {
 }
 logWhispher = "hello";
 logWhispher();
-}
