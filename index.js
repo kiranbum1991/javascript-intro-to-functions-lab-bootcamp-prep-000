@@ -1,9 +1,9 @@
 function shout (greeting) {
-  return greeting.toUpperCase()
+  return greeting.toUpperCase();
 }
 function whisper (greeting) {
-  return greeting.toLowerCase()
+  return greeting.toLowerCase();
 }
 function logShout (greeting) {
-  console.log(greeting.toUpperCase)
+  console.log(greeting.toUpperCase);
 }
