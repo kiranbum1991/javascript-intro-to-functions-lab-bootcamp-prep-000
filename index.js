@@ -8,7 +8,7 @@ function logShout () {
   console.log("HELLO");
 }
 function logWhispher (greeting) {
-greeting.toLowerCase();
+logWhispher.toLowerCase();
 }
 function sayHiToGrandma (greeting) {
   if(greeting === "hello") {
