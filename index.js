@@ -1,3 +1,3 @@
 function shout (greeting) {
-  console.log("Hello").uppercase;
+  console.log(greeting.uppercase);
 }
