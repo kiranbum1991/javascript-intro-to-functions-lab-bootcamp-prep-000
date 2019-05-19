@@ -5,5 +5,5 @@ function whisper (greeting) {
   return greeting.toLowerCase()
 }
 function logShout (greeting) {
-  console.log(logShout.toUpperCase)
+  console.log("Hello"(toUpperCase))
 }
