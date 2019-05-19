@@ -7,9 +7,9 @@ function whisper (greeting) {
 function logShout () {
   console.log("HELLO");
 }
-var logWhispher = "hello";
-logWhispher.toLowerCase;
-console.log(logWhispher);
+function logWhisper() {
+  console.log("hello");
+}
 function sayHiToGrandma (greeting) {
   if(greeting === "hello") {
     return "I can't hear you!"
